@@ -41,7 +41,7 @@ Ng~ăn "giọt lệ" ngừng k2hiến khoé mi sầu bi.1
 
 ```
 import string
-string.puntuation # :)
+string.punctuation # :)
 ```
 
 ### BT4
