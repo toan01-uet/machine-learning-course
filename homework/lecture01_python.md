@@ -105,15 +105,15 @@ result = {"if": 10, ...}
 - Với 2 list:
 
 ```python
-L1 = [1, 2, 3, 4, 5, 6]
-L2 = [3, 4, 5, 6, 7, 8, 9, 10]
+A = [1, 2, 3, 4, 5, 6]
+B = [3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
 - Lấy các phần tử:
   - Có trong cả A, B
   - Chỉ có trong A
   - Chỉ có trong B
-  - Không có trong cả A và B
+  - Chỉ có trong A hoặc B (mà không phải cả 2)
   
 ### BT10
 
