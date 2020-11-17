@@ -24,7 +24,7 @@ To your heart.
 
 ### BT2
 
-- Tính tổng tất cả các số trong kết quả của phép tính `2**10000`
+- Tính tổng tất cả các chữ số trong kết quả của phép tính `2**10000`
 
 ### BT3
 - Cho đoạn bài hát sau
@@ -36,8 +36,8 @@ Làn 25 sương khó30i phôi phai 90 đưa bư$ớc ai xa rồi 35
 Ng~ăn "giọt lệ" ngừng k2hiến khoé mi sầu bi.1 
 ```
 
-- làm rõ lời bài hát bằng cách loại bỏ toàn bộ các số và kí tự puntuation :) 
-- puntuation là gì? 
+- làm rõ lời bài hát bằng cách loại bỏ toàn bộ các số và kí tự punctuation :) 
+- punctuation là gì? 
 
 ```
 import string
@@ -68,11 +68,11 @@ defgh = 4 + 5 + 6 + 7 + 8 = 30
 
 ### BT6
 
-- Viết code sinh các số fibonanci dưới 1000, lưu giữ kq vào 1 list.
+- Viết code sinh các số Fibonacci dưới 1000, lưu giữ kết quả vào 1 list.
 
 ### BT7 
 
-- Viết code sinh các số nguyên tố dưới 10000, lưu giữ kq vào 1 list.
+- Viết code sinh các số nguyên tố dưới 10000, lưu giữ kết quả vào 1 list.
 
 ### BT8
 
